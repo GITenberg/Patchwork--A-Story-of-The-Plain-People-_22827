@@ -1,0 +1,29 @@
+_repo: Patchwork--A-Story-of-The-Plain-People-_22827
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Grose, Helen Mason
+    gutenberg_agent_id: '25565'
+    url: http://www.gutenberg.org/2009/agents/25565
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Myers, Anna Balmer
+    gutenberg_agent_id: '2001'
+    url: http://www.gutenberg.org/2009/agents/2001
+description: ''
+gutenberg_issued: '2007-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22827'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Amish -- Fiction'
+title: 'Patchwork: A Story of ''The Plain People'''
+url: http://www.gutenberg.org/ebooks/22827
